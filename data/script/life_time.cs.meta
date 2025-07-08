@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>4436bc3890a0c9a3269ef23926c87e874de3bf46</guid>
+	<type>component</type>
+	<hash>916a0cd</hash>
+	<runtimes>
+		<runtime id="4436bc3890a0c9a3269ef23926c87e874de3bf46" name="life_time.cs" link="0"/>
+		<runtime id="6d1d551695de4b9e271c256f91f0be2b6def3df4" name="life_time.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

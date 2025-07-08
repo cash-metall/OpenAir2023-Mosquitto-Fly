@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>88f05e0e47fb775f614a03797a491e1057ab9a2f</guid>
+	<type>component</type>
+	<hash>7ba33957</hash>
+	<runtimes>
+		<runtime id="88f05e0e47fb775f614a03797a491e1057ab9a2f" name="effect_blood.cs" link="0"/>
+		<runtime id="0583a47ce82d1bfd234594af57d4021824257235" name="effect_blood.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

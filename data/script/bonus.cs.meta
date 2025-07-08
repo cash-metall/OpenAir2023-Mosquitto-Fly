@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>6899dddec99ed70af5148a465455c7b861052afd</guid>
+	<type>component</type>
+	<hash>c9ab890f</hash>
+	<runtimes>
+		<runtime id="6899dddec99ed70af5148a465455c7b861052afd" name="bonus.cs" link="0"/>
+		<runtime id="a87233cc05d3adf78d25a3f4edb734e2c5129f53" name="bonus.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
